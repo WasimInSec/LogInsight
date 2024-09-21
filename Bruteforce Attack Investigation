@@ -1,0 +1,11 @@
+A brute force attack is a method used by attackers to gain unauthorized access to accounts, systems, or networks by systematically attempting all possible combinations 
+of passwords, login credentials, or encryption keys until the correct one is found. This type of attack relies on the sheer computational power to try numerous possibilities
+rapidly, often using automated tools and scripts. Implementing strong passwords, multi-factor authentication, and account lockout policies are essential measures to protect 
+against brute force attacks.
+
+
+
+
+
+
+
